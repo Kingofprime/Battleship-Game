@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Board.cpp
+C:\Users\Ankit Gupta\Desktop\Battleship\Project2\Board.cpp(104,9): warning C4101: 'action': unreferenced local variable
+  Game.cpp
+  Logger.cpp
+  Mainmenu.cpp
+  Placeship.cpp
+  Player.cpp
+  Pvp.cpp
+  Sorry.cpp
+  Source.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Ankit Gupta\Desktop\Battleship\x64\Debug\Battleship.exe
